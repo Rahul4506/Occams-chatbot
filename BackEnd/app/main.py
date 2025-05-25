@@ -121,8 +121,8 @@ if __name__ == "__main__":
     logger.info(f"Starting server on {API_HOST}:{API_PORT}")
     uvicorn.run(
         "main:app",
-        host=API_HOST,
-        port=API_PORT,
+        host="0.0.0.0",
+        port=10000,
         reload=True,
         log_level="info"
     )
