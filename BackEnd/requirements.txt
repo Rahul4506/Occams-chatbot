@@ -1,0 +1,38 @@
+# Backend dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# RAG and LLM
+langchain
+langchain-community
+langchain-text-splitters
+groq==0.4.1
+
+# Vector Database
+chromadb==0.4.18
+
+# Embeddings
+sentence-transformers==2.2.2
+transformers==4.36.0
+torch==2.2.0
+
+# Scraping
+playwright==1.40.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Environment and utilities
+python-dotenv==1.0.0
+httpx==0.25.2
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Frontend
+streamlit==1.28.1
+
+# Tracing (optional)
+langsmith

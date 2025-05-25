@@ -1,0 +1,29 @@
+occams-rag-chatbot/
+│__.occams(env)
+├── backend/
+│   ├── app/
+│   │   ├── api/
+│   │   │   ├── chat.py                 # /chat endpoint
+│   │   ├── core/
+│   │   │   ├── rag_chain.py            # RAG logic (retrieval + Groq call)
+│   │   │   ├── embedding_utils.py      # HuggingFace embedding setup
+│   │   │   ├── scraping_utils.py       # Playwright scraping logic
+│   │   │   └── chunking_utils.py       # LangChain TextSplitter
+│   │   ├── tracing/
+│   │   │   └── langsmith_config.py     # LangSmith tracing setup
+│   │   ├── config.py                   # Env vars, constants
+│   │   └── main.py                     # FastAPI app entry point
+│   ├── data/                           # Scraped raw text, chunks
+│   ├── db/                             # Chroma DB persisted here
+│   ├── requirements.txt
+│   └── tests/
+│       ├── test_chat.py
+│       ├── test_rag_chain.py
+│
+├── frontend/                          # Streamlit frontend (instead of React)
+│   ├── ui.py                          # Streamlit chatbot UI
+│
+├── .env                               # Contains GROQ_API_KEY, LANGCHAIN_API_KEY, etc.
+├── .gitignore
+├── README.md
+└── setup_env.py                       # Exports env vars (e.g., source setup_env.py)
