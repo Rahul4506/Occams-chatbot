@@ -1,0 +1,37 @@
+Web Scraping Summary
+===================
+
+Base URL: https://occamsadvisory.com
+Total pages scraped: 31
+Scraped URLs:
+1. https://occamsadvisory.com - Occams Advisory | Global Financing Advisory & Professional Services
+2. https://occamsadvisory.com/about - Your Trusted Partner for Financial Advisory - Occams Advisory
+3. https://occamsadvisory.com/our-team/slat - Strategic Leadership & Articulate Thinking (SLAT)
+4. https://occamsadvisory.com/our-team/labs - Leadership Advisory Board for Scalability (LABS)
+5. https://occamsadvisory.com/our-team/mets - Management, Execution, and Tactical Scalability (METS)
+6. https://occamsadvisory.com/our-team/step - Scalability, Technology, Efficiency & Productivity (STEP)
+7. https://occamsadvisory.com/our-team/core - Client Origination & Relationship Enhancement (CORE)
+8. https://occamsadvisory.com/contact - Contact Occam's Advisory | Connect with Our Expert Consultants
+9. https://occamsadvisory.com/business-services-growth-incubation - Business Growth Incubation | Propel Your Venture with Occam's Advisory
+10. https://occamsadvisory.com/blog/press-release/ - Occams Advisory Press Releases | Latest News & Updates
+11. https://occamsadvisory.com/blog/press-release/page/2/?et_blog - Occams Advisory Press Releases | Latest News & Updates
+12. https://occamsadvisory.com/our-services - Financial Advisory, Restructuring, Tax Credits & More | Occams Advisory
+13. https://occamsadvisory.com/blog/ - Occams Advisory Blog | Insights & Expertise for Business Growth
+14. https://occamsadvisory.com/blog/news/ - Occams Advisory News | Stay Informed on Industry Trends & Insights
+15. https://occamsadvisory.com/blog/media-mentions/ - Occams Advisory Press Releases | Latest News & Updates
+16. https://occamsadvisory.com/blog/the-power-behind-the-scenes/ - THE POWER BEHIND THE SCENES - Occams Advisory is the premier, full-service advisory firm for small business clients focused towards tax planning and advisory.
+17. https://occamsadvisory.com/blog/optimizing-client-relations-with-ai-in-2025/ - Optimizing Client Relations with AI in 2025 - Occams Advisory is the premier, full-service advisory firm for small business clients focused towards tax planning and advisory.
+18. https://occamsadvisory.com/blog/media-mentions - Occams Advisory Press Releases | Latest News & Updates
+19. https://occamsadvisory.com/blog/media-mentions/page/2/?et_blog - Occams Advisory Press Releases | Latest News & Updates
+20. https://occamsadvisory.com/information-technology-services - Information Technology Services | Enhance Your Business with Occam's Advisory
+21. https://occamsadvisory.com/tailored-payment-solutions-verification-services - Tailored Payment Solutions & Verification Services | Occam's Advisory
+22. https://occamsadvisory.com/blog/qualified-expenses-for-the-rd-tax-credit/ - Qualified Expenses for the R&D Tax Credit
+23. https://occamsadvisory.com/blog/press-release/page/3/?et_blog - Occams Advisory Press Releases | Latest News & Updates
+24. https://occamsadvisory.com/privacy-policy - Privacy Policy | Occams Advisory
+25. https://occamsadvisory.com/blog/category/blogs/ - Blogs Archives - Occams Advisory is the premier, full-service advisory firm for small business clients focused towards tax planning and advisory.
+26. https://occamsadvisory.com/blog/category/news/ - News Archives - Occams Advisory is the premier, full-service advisory firm for small business clients focused towards tax planning and advisory.
+27. https://occamsadvisory.com/blog/top-8-indian-american-companies-in-us-chamber-of-commerce-co-100-list-featured-on-indo-newyork-publication/ - Top 8 Indian American Companies in US Chamber of Commerce CO-100 List Featured on Indo NewYork Publication - Occams Advisory is the premier, full-service advisory firm for small business clients focused towards tax planning and advisory.
+28. https://occamsadvisory.com/blog/2024/10/ - October 2024 - Occams Advisory is the premier, full-service advisory firm for small business clients focused towards tax planning and advisory.
+29. https://occamsadvisory.com/capital-raising-to-promote-growth - Capital Raising for Business Growth | Occam's Advisory
+30. https://occamsadvisory.com/blog/media-mentions/?et_blog - Occams Advisory Press Releases | Latest News & Updates
+31. https://occamsadvisory.com/blog/2020/06/ - June 2020 - Occams Advisory is the premier, full-service advisory firm for small business clients focused towards tax planning and advisory.
