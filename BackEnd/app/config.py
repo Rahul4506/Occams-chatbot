@@ -14,8 +14,9 @@ DATA_DIR = BACKEND_DIR / "data"
 DB_DIR = BACKEND_DIR / "db"
 
 # Ensure directories exist
-DATA_DIR.mkdir(exist_ok=True)
-DB_DIR.mkdir(exist_ok=True)
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+DB_DIR.mkdir(parents=True, exist_ok=True)
 
 # API Configuration
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
