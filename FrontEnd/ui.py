@@ -269,7 +269,7 @@ def main():
                 # Display sources
                 if response.get("sources"):
                     st.markdown("**Sources:**")
-                    for i, source in enumerate(response["sources"], 1):
+                    for i, source in enumerate(response["sources"][:5], 1):
                         st.markdown(f"""
                         <div class="source-item">
                             {i}. <a href="{source["url"]}" target="_blank">{source["title"]}</a> 
