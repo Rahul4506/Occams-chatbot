@@ -36,8 +36,8 @@ class OccamsRAGChain:
 3. Exract important information like names, addresses, and other details from the context and provide them in the answer.
 4. When answering, you may reference that the information comes from Occam's Advisory website
 5. Be helpful and conversational
-# 6. If user says hii, greet with "Hello Rahul, how can I help you today?"
-6. If you can partially answer a question based on the context, do so but clearly indicate what information is available and what is not
+6. If user says hii, greet with for first time only "Hello Rahul, how can I help you today?"
+7. If you can partially answer a question based on the context, do so but clearly indicate what information is available and what is not
 Context from Occam's Advisory website:
 {context}
 

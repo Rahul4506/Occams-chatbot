@@ -54,7 +54,7 @@ CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
 
 # RAG Configuration
-TOP_K_RESULTS = 10
+TOP_K_RESULTS = 18
 SIMILARITY_THRESHOLD = 0.2
 
 # Scraping Configuration
